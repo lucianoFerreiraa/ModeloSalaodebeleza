@@ -4,7 +4,7 @@ const defaultConfig = {
     hero_title: 'Realce sua beleza com <em class="font-script font-normal gold-gradient">especialistas</em> em excelência.',
     hero_subtitle: 'Agende seu horário em menos de 1 minuto.',
     cta_button: 'Agendar Meu Horário Agora',
-    whatsapp_number: '5511999999999'
+    whatsapp_number: '5569992892060'
 };
 
 // Mensagem de captura de leads para web design
